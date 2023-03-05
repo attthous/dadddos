@@ -1,0 +1,11 @@
+grep -n ^hola$ /usr/share/wordlists/rockyou.txt nos va a decir el numero de la línea en donde se encuentra esa palabra.
+
+AWK
+
+awk 'NR==4' Muestra la línea 4
+
+awk 'NF{print $NF}' Muestra la última línea.
+
+
+
+
