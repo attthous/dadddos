@@ -1,0 +1,187 @@
+Se han encontrado las siguientes redes Wi-Fi:
+
+mama
+XT1635-02 7731
+fh_5f1bd8_5G
+ana
+
+
+Mostrando la clave de la red mama:
+
+Perfil mama en la interfaz Wi-Fi: 
+======================================================================= 
+
+Aplicado: Perfil de todos los usuarios    
+
+Informaci¢n del perfil 
+---------------------- 
+    Versi¢n                : 1
+    Tipo                   : LAN inal mbrica
+    Nombre                 : mama
+    Opciones de control    : 
+        Modo de conexi¢n : conectar manualmente
+        Difusi¢n de red  : conectarse solo si esta red est  difundiendo
+        Cambio autom tico: no cambiar a otras redes
+        Selecci¢n aleatoria de direcci¢n MAC: deshabilitada
+
+Configuraci¢n de conectividad 
+----------------------------- 
+    N£mero de SSID        : 1
+    Nombre de SSID       : "mama"
+    Tipo de red           : Infraestructura
+    Tipo de radio          : [ Cualquier tipo de radio ]
+    Extensi¢n de proveedor         : no est  presente
+
+Configuraci¢n de seguridad 
+-------------------------- 
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : CCMP
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : GCMP
+    Clave de seguridad                         : Presente
+    Contenido de la clave  : cristobal2012
+
+Configuraci¢n de costos 
+------------- 
+    Costo                   : Sin restricciones
+    Congestionado              : No
+    A punto de alcanzar el l¡mite de datos: No
+    L¡mite de datos superado        : No
+    Itinerancia                : No
+    Origen de costo            : Predeterminado
+
+
+Mostrando la clave de la red XT1635-02 7731:
+
+Perfil XT1635-02 7731 en la interfaz Wi-Fi: 
+======================================================================= 
+
+Aplicado: Perfil de todos los usuarios    
+
+Informaci¢n del perfil 
+---------------------- 
+    Versi¢n                : 1
+    Tipo                   : LAN inal mbrica
+    Nombre                 : XT1635-02 7731
+    Opciones de control    : 
+        Modo de conexi¢n : conectar manualmente
+        Difusi¢n de red  : conectarse solo si esta red est  difundiendo
+        Cambio autom tico: no cambiar a otras redes
+        Selecci¢n aleatoria de direcci¢n MAC: deshabilitada
+
+Configuraci¢n de conectividad 
+----------------------------- 
+    N£mero de SSID        : 1
+    Nombre de SSID       : "XT1635-02 7731"
+    Tipo de red           : Infraestructura
+    Tipo de radio          : [ Cualquier tipo de radio ]
+    Extensi¢n de proveedor         : no est  presente
+
+Configuraci¢n de seguridad 
+-------------------------- 
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : CCMP
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : GCMP
+    Clave de seguridad                         : Presente
+    Contenido de la clave  : 12345678
+
+Configuraci¢n de costos 
+------------- 
+    Costo                   : Sin restricciones
+    Congestionado              : No
+    A punto de alcanzar el l¡mite de datos: No
+    L¡mite de datos superado        : No
+    Itinerancia                : No
+    Origen de costo            : Predeterminado
+
+
+Mostrando la clave de la red fh_5f1bd8_5G:
+
+Perfil fh_5f1bd8_5G en la interfaz Wi-Fi: 
+======================================================================= 
+
+Aplicado: Perfil de todos los usuarios    
+
+Informaci¢n del perfil 
+---------------------- 
+    Versi¢n                : 1
+    Tipo                   : LAN inal mbrica
+    Nombre                 : fh_5f1bd8_5G
+    Opciones de control    : 
+        Modo de conexi¢n : conectar autom ticamente
+        Difusi¢n de red  : conectarse solo si esta red est  difundiendo
+        Cambio autom tico: no cambiar a otras redes
+        Selecci¢n aleatoria de direcci¢n MAC: deshabilitada
+
+Configuraci¢n de conectividad 
+----------------------------- 
+    N£mero de SSID        : 1
+    Nombre de SSID       : "fh_5f1bd8_5G"
+    Tipo de red           : Infraestructura
+    Tipo de radio          : [ Cualquier tipo de radio ]
+    Extensi¢n de proveedor         : no est  presente
+
+Configuraci¢n de seguridad 
+-------------------------- 
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : CCMP
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : GCMP
+    Clave de seguridad                         : Presente
+    Contenido de la clave  : wlana0e42727320899
+
+Configuraci¢n de costos 
+------------- 
+    Costo                   : Sin restricciones
+    Congestionado              : No
+    A punto de alcanzar el l¡mite de datos: No
+    L¡mite de datos superado        : No
+    Itinerancia                : No
+    Origen de costo            : Predeterminado
+
+
+Mostrando la clave de la red ana:
+
+Perfil ana en la interfaz Wi-Fi: 
+======================================================================= 
+
+Aplicado: Perfil de todos los usuarios    
+
+Informaci¢n del perfil 
+---------------------- 
+    Versi¢n                : 1
+    Tipo                   : LAN inal mbrica
+    Nombre                 : ana
+    Opciones de control    : 
+        Modo de conexi¢n : conectar manualmente
+        Difusi¢n de red  : conectarse solo si esta red est  difundiendo
+        Cambio autom tico: no cambiar a otras redes
+        Selecci¢n aleatoria de direcci¢n MAC: deshabilitada
+
+Configuraci¢n de conectividad 
+----------------------------- 
+    N£mero de SSID        : 1
+    Nombre de SSID       : "ana"
+    Tipo de red           : Infraestructura
+    Tipo de radio          : [ Cualquier tipo de radio ]
+    Extensi¢n de proveedor         : no est  presente
+
+Configuraci¢n de seguridad 
+-------------------------- 
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : CCMP
+    Autenticaci¢n                  : WPA2-Personal
+    Cifrado                        : GCMP
+    Clave de seguridad                         : Presente
+    Contenido de la clave  : teclado11
+
+Configuraci¢n de costos 
+------------- 
+    Costo                   : Sin restricciones
+    Congestionado              : No
+    A punto de alcanzar el l¡mite de datos: No
+    L¡mite de datos superado        : No
+    Itinerancia                : No
+    Origen de costo            : Predeterminado
+

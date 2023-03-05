@@ -1,0 +1,3 @@
+@echo off
+set text="estamos ready"
+powershell -Command "(New-Object -ComObject SAPI.SpVoice).Speak('%text%')" >nul 2>&1
