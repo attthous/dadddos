@@ -1,8 +1,0 @@
-REM Crear la clave "Hosts de servicio local (...).exe" en la ruta especificada
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options" /v "Hosts de servicio local (...).exe" /t REG_SZ /d "" /f
- REM Crear la clave "PerfOptions" dentro de la clave "Hosts de servicio local (...).exe"
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Hosts de servicio local (...).exe" /v "PerfOptions" /t REG_SZ /d "" /f
- REM Crear el valor DWORD "CpuPriorityClass" dentro de la clave "PerfOptions" con un valor de 3 (prioridad alta)
-
-reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Hosts de servicio local (...).exe\PerfOptions" /v "CpuPriorityClass" /t REG_DWORD /d 3 /f
-pause
